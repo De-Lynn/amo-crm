@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/amo-crm/static/css/main.2c028f5c.css",
+    "main.js": "/amo-crm/static/js/main.33c22d59.js",
+    "static/js/787.4ed48c7c.chunk.js": "/amo-crm/static/js/787.4ed48c7c.chunk.js",
+    "static/media/logo-welbex-part2.svg": "/amo-crm/static/media/logo-welbex-part2.7fef61eda0ac7eaaa82bc83761b475f3.svg",
+    "static/media/whatsapp.svg": "/amo-crm/static/media/whatsapp.ebe720f0c912eda28e2bf0613c18300f.svg",
+    "static/media/viber.svg": "/amo-crm/static/media/viber.efdbe6bd3950a854df10750809a40828.svg",
+    "static/media/red-ball-small.svg": "/amo-crm/static/media/red-ball-small.e0cfd585b5aa004e7899e00ff8c97cf4.svg",
+    "static/media/purple-ball.svg": "/amo-crm/static/media/purple-ball.5183c75bdfdc477e9148312d22bdcf94.svg",
+    "static/media/purple-ball-40.svg": "/amo-crm/static/media/purple-ball-40.ff8f738085f7145886bf49b5a3a2a619.svg",
+    "static/media/red-ball-big.svg": "/amo-crm/static/media/red-ball-big.d0944b6e50e80d4994d492177a6b660c.svg",
+    "static/media/red-ball-43.svg": "/amo-crm/static/media/red-ball-43.457507b8f0b3ecee65be6d1f4ae14436.svg",
+    "static/media/logo-welbex-part1.svg": "/amo-crm/static/media/logo-welbex-part1.b823dbdeb1fce1c504c80f87459e8cce.svg",
+    "static/media/telegram.svg": "/amo-crm/static/media/telegram.40ecd015eebebbe71b5bd0354d54208e.svg",
+    "index.html": "/amo-crm/index.html",
+    "main.2c028f5c.css.map": "/amo-crm/static/css/main.2c028f5c.css.map",
+    "main.33c22d59.js.map": "/amo-crm/static/js/main.33c22d59.js.map",
+    "787.4ed48c7c.chunk.js.map": "/amo-crm/static/js/787.4ed48c7c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c028f5c.css",
+    "static/js/main.33c22d59.js"
+  ]
+}
